@@ -13,6 +13,10 @@ export default function HomePage() {
           Pull-Requests und Merge-Konflikten in einem realistischen
           Fullstack-Setup.
         </p>
+        <p className="max-w-2xl text-slate-600">
+          Das Projekt beinhaltet eine einfache Task-Management-Anwendung mit
+          Funktionen zum Erstellen, Bearbeiten und Anzeigen von Aufgaben.
+        </p>
         <Link
           href="/tasks"
           className="inline-flex items-center rounded-xl bg-brand-500 px-4 py-2 font-medium text-white transition hover:bg-brand-600"
